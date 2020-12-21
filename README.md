@@ -6,12 +6,12 @@
 - 👯 I’m perfecting my Turkish Speaking Skills too.
 
 
-### Connect with me:
+### Projects:
 
-[<img align="left" alt="bambi.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bambi]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bambi social" width="30px" src="https://www.bambi.app/static/resources/logo.svg" />][bambi]
+[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]
+[<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
+
 
 <br />
 
@@ -30,11 +30,12 @@
 
 <br />
 
-### Projects:
+### Connect with me:
 
-[<img align="left" alt="bambi social" width="30px" src="https://www.bambi.app/static/resources/logo.svg" />][bambi]
-[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]
-[<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
+[<img align="left" alt="bambi.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bambi]
+[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
