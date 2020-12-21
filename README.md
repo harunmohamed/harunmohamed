@@ -32,9 +32,9 @@
 
 ### Projects:
 
-[<img align="left" alt="bambi social" width="22px" src="https://www.bambi.app/static/resources/logo.svg" />][bambi]
-[<img align="left" alt="bambi dating" width="22px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]
-[<img align="left" alt="bambi diary" width="22px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
+[<img align="left" alt="bambi social" width="30px" src="https://www.bambi.app/static/resources/logo.svg" />][bambi]
+[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]
+[<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
 
 <br />
 <br />
