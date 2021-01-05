@@ -8,9 +8,10 @@
 
 ### Projects:
 
-[<img align="left" alt="bambi social" width="30px" src="https://www.bambi.app/static/resources/logo.svg" />][bambi]
-[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]
-[<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
+[<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
+[<img align="left" alt="bambi dating" width="30px" src="https://camo.githubusercontent.com/0ee8a0dc4787175ecb6f93e637b0c61a14e68e373128991817164e4a2735997d/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323939302f323939303532352e737667" />][dating]
+[<img align="left" alt="bambi diary" width="30px" src="https://camo.githubusercontent.com/adaa52e3504d3bdfec9a0a8992af9e1e492f2fa4f38b796ab061910c557a7e47/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f323935302f323935303233322e737667" />][diary]
+[<img align="left" alt="bambi market" width="30px" src="https://camo.githubusercontent.com/2ff3ccd9a1233abe15022a196aa5daea578791812f2f5a13ecffccc1d5f531f7/68747470733a2f2f6d6172726b65742e6865726f6b756170702e636f6d2f7374617469632f7265736f75726365732f6c6f676f2e737667" />][market]
 
 
 <br />
@@ -50,3 +51,4 @@
 [instagram]: https://www.instagram.com/harunnmohamed
 [dating]: https://www.neudating.herokuapp.com
 [diary]: https://www.diaary.herokuapp.com
+[market]: https://marrket.herokuapp.com
