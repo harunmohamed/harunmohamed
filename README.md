@@ -50,6 +50,6 @@
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
-[dating]: https://www.neudating.herokuapp.com
-[diary]: https://www.diaary.herokuapp.com
-[market]: https://marrket.herokuapp.com
+[dating]: https://neudating.herokuapp.com/
+[diary]: https://diaary.herokuapp.com/
+[market]: http://marrket.herokuapp.com/
