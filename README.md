@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning React and JS
 - 👯 I’m perfecting my Turkish Speaking Skills too.
 
+![Profile views](https://gpvc.arturio.dev/harunmohamed)
+
 
 ### Projects:
 
