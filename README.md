@@ -34,6 +34,8 @@
 
 <br />
 
+![Profile views](https://gpvc.arturio.dev/harunmohamed)
+
 ### Connect with me:
 
 [<img align="left" alt="bambi.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bambi]
@@ -43,7 +45,7 @@
 
 <br />
 <br />
-![Profile views](https://gpvc.arturio.dev/harunmohamed)
+
 ---
 
 <img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
