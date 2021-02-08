@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React and JS
 - 👯 I’m perfecting my Turkish Speaking Skills too.
 
-![Profile views](https://gpvc.arturio.dev/harunmohamed)
+
 
 
 ### Projects:
@@ -47,6 +47,7 @@
 ---
 
 <img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
+<br>
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
 [bambi]: https://www.bambi.app
