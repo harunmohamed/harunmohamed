@@ -48,7 +48,6 @@
 ![Profile views](https://gpvc.arturio.dev/harunmohamed) 
 
 <br />
-<br />
 
 <img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
 <br>
