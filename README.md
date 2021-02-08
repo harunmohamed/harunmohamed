@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/harunmohamed)
 ### Hi there, I'm Harun 👋
 
 ## I'm a Full-stack Software Developer and Python Enthusiast!
