@@ -33,9 +33,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
 ### Connect with me:
 
@@ -48,6 +45,10 @@
 <br />
 
 ---
+![Profile views](https://gpvc.arturio.dev/harunmohamed) 
+
+<br />
+<br />
 
 <img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
 <br>
