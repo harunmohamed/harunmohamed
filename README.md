@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/harunmohamed)
 ### Hi there, I'm Harun 👋
 
 ## I'm a Full-stack Software Developer and Python Enthusiast!
@@ -6,7 +5,7 @@
 - 🌱 I’m currently learning React and JS
 - 👯 I’m perfecting my Turkish Speaking Skills too.
 
-
+![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
 
 ### Projects:
