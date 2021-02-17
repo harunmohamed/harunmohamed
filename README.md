@@ -2,7 +2,7 @@
 
 ## I'm a Full-stack Software Developer and Python Enthusiast!
 - 🔭 I’m currently working on [Bambi][bambi]
-- 🌱 I’m currently learning React and JS
+- 🌱 I’m currently learning React and Flutter
 - 👯 I’m perfecting my Turkish Speaking Skills too.
 
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
