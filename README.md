@@ -61,4 +61,4 @@
 [instagram]: https://www.instagram.com/harunnmohamed
 [dating]: https://neudating.herokuapp.com/
 [diary]: https://diaary.herokuapp.com/
-[market]: http://marrket.herokuapp.com/
+[market]: http://uzza.herokuapp.com/
