@@ -1,6 +1,6 @@
 ### Hi there, I'm Harun 👋
 
-## I'm a Full-stack Software Developer and Python Enthusiast!
+## I'm a Software Engineer and aspiring Data Scientist!
 - 🔭 I’m currently working on [Bambi][bambi]
 - 🌱 I’m currently learning React and Flutter
 - 👯 I’m perfecting my Turkish Speaking Skills too.
