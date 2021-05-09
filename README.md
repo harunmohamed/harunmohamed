@@ -1,6 +1,6 @@
 ### Hi there, I'm Harun 👋
 
-## I'm a Software Engineer and aspiring Data Scientist!
+## I'm a Software Engineer and Aspiring Data Scientist!
 - 🔭 I’m currently working on [Bambi][bambi]
 - 🌱 I’m currently learning React and Flutter
 - 👯 I’m perfecting my Turkish Speaking Skills too.
