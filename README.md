@@ -1,9 +1,9 @@
 ### Hi there, I'm Harun 👋
 
 ## I'm a Software Engineer and Aspiring Data Scientist!
-- 🔭 I’m currently working on CABEE
-- 🌱 I’m currently learning Data Science and Flutter
-- 👯 I’m perfecting my Turkish Speaking Skills too.
+- 🔭 I’m currently working on CABEE.
+- 🌱 I’m currently learning Data Science and Flutter.
+- 👯 I’m also perfecting my Turkish too.
 
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
