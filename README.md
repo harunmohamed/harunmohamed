@@ -1,9 +1,9 @@
 ### Hi there, I'm Harun 👋
 
 ## I'm a Software Engineer and Aspiring Data Scientist!
-- 🤓 Software Engineering Intern @ Gunsel Motors
-- 🌱 Actively learning Data Science.
-- 🔭 Working on CABEE as part of my SE graduation thesis.
+- 🚘 Software Engineering Intern @ Gunsel Motors
+- 📊 Actively learning Data Science.
+- 📒 Working on CABEE as part of my SE graduation thesis.
 - 👯 Trying to learn some Turkish too while at it.
 
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
