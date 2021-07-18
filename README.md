@@ -1,9 +1,10 @@
 ### Hi there, I'm Harun 👋
 
 ## I'm a Software Engineer and Aspiring Data Scientist!
-- 🔭 I’m currently working on CABEE.
-- 🌱 I’m currently learning Data Science and Flutter.
-- 👯 I’m also perfecting my Turkish too.
+- 🤓 Software Engineering Intern @ Gunsel Motors
+- 🌱 Actively learning Data Science.
+- 🔭 Working on CABEE as part of my SE graduation thesis.
+- 👯 Trying to learn some Turkish too while at it.
 
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
