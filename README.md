@@ -14,7 +14,7 @@
 [<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
 [<img align="left" alt="bambi dating" width="30px" src="https://camo.githubusercontent.com/0ee8a0dc4787175ecb6f93e637b0c61a14e68e373128991817164e4a2735997d/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323939302f323939303532352e737667" />][dating]
 [<img align="left" alt="bambi market" width="30px" src="https://i.imgur.com/UpqG1ms.png" />][market]
-[<img align="left" alt="bambi diary" width="30px" src="https://camo.githubusercontent.com/adaa52e3504d3bdfec9a0a8992af9e1e492f2fa4f38b796ab061910c557a7e47/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f323935302f323935303233322e737667" />][diary]
+[<img align="left" alt="bambi diary" width="30px" src="https://bit.ly/2YNnKQr" />][diary]
 [<img align="left" alt="CABEE" width="30px" src="https://i.imgur.com/krwJe8D.png" />][cabee]
 
 
