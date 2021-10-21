@@ -1,6 +1,6 @@
 ### Hi there, I'm Harun 👋
 
-## I am a Software Engineer and Aspiring Data Scientist!
+## I am a Software Engineer & Aspiring Data Scientist!
 - 🚘 Software Engineering Intern @ <a href="https://www.gunsel.com.tr/">Günsel</a>
 - 📊 Actively learning Data Science.
 - 📒 Working on CABEE as part of my SE graduation thesis.
