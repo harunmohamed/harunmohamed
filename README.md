@@ -56,6 +56,8 @@
 <img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunmohamed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [bambi]: https://www.bambi.app
 [twitter]: https://twitter.com/harunnmohamed
