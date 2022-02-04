@@ -1,7 +1,7 @@
 ### Hi there, I'm Harun 👋
 
 ## I am a Software Engineer & Aspiring Data Scientist!
-- 🚘 Software Engineering @ <a href="https://www.gunsel.com.tr/">Günsel</a>
+- 🚘 DIIS Software Engineer @ <a href="https://www.gunsel.com.tr/">Günsel</a>
 - 📊 Actively learning Data Science.
 - 📒 Working on CABEE as part of my SE graduation thesis.
 - 👯 Trying to learn some Turkish too while at it.
