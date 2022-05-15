@@ -1,8 +1,8 @@
 ### Hi there, I'm Harun 👋
 
-## I am a Software Engineer & Aspiring Data Scientist!
-- 🚘 Software Engineer - Digital Instrument Cluster and Driver Infotainment System @ <a href="https://www.gunsel.com.tr/">Günsel</a>
-- 📊 Actively learning Data Science.
+## Software Engineer & Aspiring Data Scientist!
+- 🚘 Embedded Software Engineer - Digital Instrument Cluster and Driver Infotainment System @ <a href="https://www.gunsel.com.tr/">Günsel</a>
+- 📊 Data Science & Machine Learning Enthusiast.
 - 📒 Working on CABEE as part of my SE graduation thesis.
 - 👯 Trying to learn some Turkish too while at it.
 
