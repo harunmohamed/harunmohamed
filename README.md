@@ -15,7 +15,7 @@
 [<img align="left" alt="bambi market" width="30px" src="https://i.imgur.com/UpqG1ms.png" />][market]
 [<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]
 [<img align="left" alt="CABEE" width="30px" src="https://i.imgur.com/krwJe8D.png" />][cabee]
-<img align="left" alt="Voyage" width="30px" src="https://avatars.githubusercontent.com/u/109476770?s=200&v=4" />
+[<img align="left" alt="Voyage" width="30px" src="https://avatars.githubusercontent.com/u/109476770?s=200&v=4" />] []
 
 ### Languages and Tools:
 
@@ -37,6 +37,7 @@
 <br />
 
 [bambi]: https://www.bambi.app
+[voyage]: https://www.github.com/voyaage
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
