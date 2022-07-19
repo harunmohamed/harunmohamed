@@ -1,10 +1,9 @@
 ### 👋  Hi, I'm Harun. 
 
-## Software Engineer & Aspiring Data Scientist
+## Software Engineer, DS and ML enthusiast
 - 🚘 Embedded Software Engineer - Digital Instrument Cluster and Driver Infotainment System @ <a href="https://www.gunsel.com.tr/">Günsel</a>
 - 📊 Data Science & Machine Learning Enthusiast.
-- 📒 Working on CABEE as part of my SE graduation thesis.
-- 👯 Trying to learn some Turkish too while at it.
+- ⛱ Project Lead @ <a href="https://www.github.com/voyaage/">Voyage</a>.
 
 ![Profile views](https://gpvc.arturio.dev/harunmohamed)
 
