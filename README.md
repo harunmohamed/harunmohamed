@@ -39,27 +39,6 @@
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="bambi.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bambi]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
----
-
-
-<br />
-
-<img align="left" alt="Harun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harunmohamed&show_icons=true&hide_border=true" />
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunmohamed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [bambi]: https://www.bambi.app
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
