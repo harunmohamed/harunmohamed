@@ -46,7 +46,7 @@
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
-[dating]: https://neudating.herokuapp.com/
+[dating]: https://www.github.com/harunmohamed/dating
 [diary]: https://diaary.herokuapp.com/
 [market]: http://uzza.herokuapp.com/
 [cabee]: http://harunmohamed.github.io/cabee/
