@@ -41,6 +41,10 @@
 
 <br />
 
+<h2> Personal statistics: </h2>
+
+![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
+
 [bambi]: https://www.bambi.app
 [voyage]: https://www.github.com/voyaage
 [hubble]: https://www.github.com/harunmohamed/hubble
