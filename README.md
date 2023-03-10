@@ -1,8 +1,8 @@
 ### 👋  Hi, I'm Harun. 
 
-## Software Engineer, DS and ML enthusiast
+## Software Engineer & aspiring Machine Learning Engineer
 - 🚘 Embedded Software Engineer - Digital Instrument Cluster and Driver Infotainment System @ <a href="https://www.gunsel.com.tr/">Günsel</a>
-- 📊 Data Science & Machine Learning Enthusiast.
+- 📊 Full stack dev, Data Science & Machine Learning Enthusiast.
 - ⛱ Project Lead @ <a href="https://www.github.com/voyaage/">Voyage</a> & <a href="https://www.github.com/harunmohamed/hubble-backend">Hubble</a>
 
 <br />
@@ -17,7 +17,7 @@
 [<img align="left" alt="Voyage" width="30px" src="https://avatars.githubusercontent.com/u/109476770?s=200&v=4" />][voyage]
 [<img align="left" alt="Hubble" width="30px" src="https://i.imgur.com/3oYBLqq.png" />][hubble]
 [<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
-[<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/agev3/master/client/public/logo.png" />][agev3]
+[<img align="left" alt="African Grand Expeditions" width="30px" src="https://raw.githubusercontent.com/harunmohamed/agev3/master/client/public/logo.png" />][agev3]
 
 <br />
 
