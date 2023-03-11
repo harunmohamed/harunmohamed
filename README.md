@@ -1,13 +1,12 @@
-### 👋  Hi, I'm Harun. 
+### ```👋  Hi, I'm Harun. ```
 
-## Software Engineer & aspiring Machine Learning Engineer
-- 🚘 Embedded Software Engineer - Digital Instrument Cluster and Driver Infotainment System @ <a href="https://www.gunsel.com.tr/">Günsel</a>
-- 📊 Full stack dev, Data Science & Machine Learning Enthusiast.
-- ⛱ Project Lead @ <a href="https://www.github.com/voyaage/">Voyage</a> & <a href="https://www.github.com/harunmohamed/hubble-backend">Hubble</a>
+<!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
-<br />
+- embedded software engineer - digital instrument cluster and driver infotainment system :: <a href="https://www.gunsel.com.tr/">```🚘  Günsel```</a>
+- project lead :: <a href="https://www.github.com/agev3/">```🐘 agev3```</a>
 
-### Projects:
+
+####  ```Projects```
 
 [<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
 <!--[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]-->
@@ -21,7 +20,7 @@
 
 <br />
 
-
+<!-- 
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -39,7 +38,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br /> -->
 
 [bambi]: https://www.bambi.app
 [voyage]: https://www.github.com/voyaage
