@@ -16,7 +16,7 @@
 [<img align="left" alt="Voyage" width="30px" src="https://avatars.githubusercontent.com/u/109476770?s=200&v=4" />][voyage]
 [<img align="left" alt="Hubble" width="30px" src="https://i.imgur.com/3oYBLqq.png" />][hubble]
 [<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
-[<img align="left" alt="agev3" width="30px" src="https://bit.ly/3l8u7Jm" />][agev3]
+[<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
 
 <br />
 
