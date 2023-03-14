@@ -17,6 +17,7 @@
 [<img align="left" alt="Hubble" width="30px" src="https://i.imgur.com/3oYBLqq.png" />][hubble]
 [<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
+[<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/JXbfisk.png" />][tajriba]
 
 <br />
 
@@ -45,6 +46,7 @@
 [hubble]: https://www.github.com/harunmohamed/hubble
 [billy]: https://www.github.com/harunmohamed/billy
 [agev3]: https://www.github.com/harunmohamed/agev3
+[tajriba]: https://www.github.com/harunmohamed/tajriba
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
