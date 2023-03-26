@@ -2,7 +2,7 @@
 
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
-- embedded software engineer - digital instrument cluster and driver infotainment system : <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
+- embedded software engineer - digital instrument cluster and driver infotainment system :: <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
 - project lead :: <a href="https://www.github.com/harunmohamed/agev3/">```🐘 agev3```</a> & <a href="https://www.github.com/harunmohamed/tajriba/">```🌋 tajriba```</a>
 
 
