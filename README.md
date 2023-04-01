@@ -1,4 +1,4 @@
-### ```👋  Hi, I'm Harun ```
+### ```👋  Hi, I'm Harun. ```
 
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
