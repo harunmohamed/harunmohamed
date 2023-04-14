@@ -17,7 +17,7 @@
 [<img align="left" alt="Hubble" width="30px" src="https://i.imgur.com/3oYBLqq.png" />][hubble]
 [<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
-[<img align="left" alt="tajriba" width="30px" src="[https://i.imgur.com/JXbfisk.png](https://pbs.twimg.com/profile_images/1639290257660059648/aEXrUPin_400x400.jpg)" />][tajriba]
+[<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
 
 <br />
 
