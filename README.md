@@ -1,12 +1,12 @@
-### ```👋  Hi, I'm Harun. ```
+# 👋🏾  Hi, I'm Harun. 
 
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
 - embedded software engineer - digital instrument cluster and driver infotainment system :: <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
-- project lead :: <a href="https://www.github.com/harunmohamed/tajriba/">```🌋 Tajriba```</a>
+- project lead :: <a href="https://www.tajriba.app/">```🏄🏾‍♂️ Tajriba```</a>
 
 
-####  ```Projects```
+##  🤓 work.
 
 [<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
 <!--[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]-->
@@ -45,7 +45,7 @@
 [hubble]: https://www.github.com/harunmohamed/hubble
 [billy]: https://www.github.com/harunmohamed/billy
 [agev3]: https://www.github.com/harunmohamed/agev3
-[tajriba]: https://www.github.com/harunmohamed/tajriba
+[tajriba]: https://www.tajriba.app
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
