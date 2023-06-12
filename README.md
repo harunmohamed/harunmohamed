@@ -1,4 +1,4 @@
-# 👋🏾  Hi, I'm Harun. 
+## <code>👋🏾  Hi, I'm Harun. </code>
 
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
@@ -6,7 +6,7 @@
 - project lead :: <a href="https://www.tajriba.app/">```🏄🏾‍♂️ Tajriba```</a>
 
 
-##  🤓 work.
+####  <code>~ work. </code>
 
 [<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
 <!--[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]-->
