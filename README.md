@@ -17,7 +17,7 @@
 [<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
 [<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
-[<img align="left" alt="salaamahut" width="30px" src="https://www.salaamahut.com/assets/logo-icon-31297fdc.png" />][salaamahut]
+[<img align="left" alt="ubbolabs" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][ubbolabs]
 
 <br />
 
@@ -47,7 +47,7 @@
 [billy]: https://www.github.com/harunmohamed/billy
 [agev3]: https://www.github.com/harunmohamed/agev3
 [tajriba]: https://www.tajriba.app
-[salaamahut]: https://www.salaamahut.com
+[ubbolabs]: https://www.ubbolabs.com
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
