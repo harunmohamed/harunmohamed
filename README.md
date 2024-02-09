@@ -39,9 +39,9 @@
 [voyage]: https://www.github.com/voyaage
 [hubble]: https://www.github.com/harunmohamed/hubble
 [billy]: https://www.github.com/harunmohamed/billy
-[agev3]: https://www.github.com/harunmohamed/agev3
+[agev3]: https://www.africangrandexpeditions.com
 [tajriba]: https://www.tajriba.app
-[ubbolabs]: https://www.ubbolabs.com
+[ubbolabs]: https://www.yaha.ubbolabs.com
 [yaha]: https://www.yaha.ubbolabs.com
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
