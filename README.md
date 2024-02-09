@@ -41,7 +41,7 @@
 [billy]: https://www.github.com/harunmohamed/billy
 [agev3]: https://www.africangrandexpeditions.com
 [tajriba]: https://www.tajriba.app
-[ubbolabs]: https://www.yaha.ubbolabs.com
+[ubbolabs]: https://yaha.ubbolabs.com
 [yaha]: https://www.yaha.ubbolabs.com
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
