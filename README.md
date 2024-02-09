@@ -3,6 +3,7 @@
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
 - embedded software engineer - digital instrument cluster and driver infotainment system :: <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
+- machine learning engineer  :: <a href="https://www.yaha.ubbolabs.com/">```🍇 Yaha```</a>
 - project lead :: <a href="https://www.tajriba.app/">```🏄🏾‍♂️ Tajriba```</a>
 
 
@@ -11,7 +12,6 @@
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
 [<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
 [<img align="left" alt="ubbolabs" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][ubbolabs]
-[<img align="left" alt="yaha" width="30px" src="https://res.cloudinary.com/dqfkey8og/image/upload/v1707441585/restaurants/yaha/badge-filled_vjfohf.png" />][yaha]
 
 <br />
 
