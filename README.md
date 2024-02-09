@@ -8,16 +8,10 @@
 
 ####  <code>~ work. </code>
 
-[<img align="left" alt="bambi social" width="30px" src="https://camo.githubusercontent.com/1e4346cd185214c876676564deba0c7a39b4ade4fcbf037d684ff25ddd8d1765/68747470733a2f2f6269742e6c792f3362596d6f3774" />][bambi]
-<!--[<img align="left" alt="bambi dating" width="30px" src="https://neudating.herokuapp.com/static/resources/logo.png" />][dating]-->
-[<img align="left" alt="bambi market" width="30px" src="https://i.imgur.com/UpqG1ms.png" />][market]
-<!--[<img align="left" alt="bambi diary" width="30px" src="https://diaary.herokuapp.com/static/resources/logo.svg" />][diary]-->
-[<img align="left" alt="CABEE" width="30px" src="https://i.imgur.com/krwJe8D.png" />][cabee]
-[<img align="left" alt="Hubble" width="30px" src="https://i.imgur.com/3oYBLqq.png" />][hubble]
-[<img align="left" alt="Billy" width="30px" src="https://raw.githubusercontent.com/harunmohamed/billy/master/src/assets/logos/billysmall-favicon.png" />][billy]
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
 [<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
 [<img align="left" alt="ubbolabs" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][ubbolabs]
+[<img align="left" alt="yaha" width="30px" src="https://res.cloudinary.com/dqfkey8og/image/upload/v1707441585/restaurants/yaha/badge-filled_vjfohf.png" />][yaha]
 
 <br />
 
@@ -48,6 +42,7 @@
 [agev3]: https://www.github.com/harunmohamed/agev3
 [tajriba]: https://www.tajriba.app
 [ubbolabs]: https://www.ubbolabs.com
+[yaha]: https://www.yaha.ubbolabs.com
 [twitter]: https://twitter.com/harunnmohamed
 [facebook]: https://www.facebook.com/harrunnmohamed
 [instagram]: https://www.instagram.com/harunnmohamed
