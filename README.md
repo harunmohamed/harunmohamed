@@ -3,7 +3,7 @@
 <!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
 
 - embedded software engineer - digital instrument cluster and driver infotainment systems :: <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
-- machine learning engineer  :: <a href="https://www.yaha.ubbolabs.com/">```🍇 Yaha```</a>
+- machine learning engineer  :: <a href="https://www.orderyaha.com/">```🍇 Yaha```</a>
 - project lead :: <a href="https://www.tajriba.app/">```🏄🏾‍♂️ Tajriba```</a>
 
 
