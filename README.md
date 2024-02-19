@@ -11,7 +11,7 @@
 
 [<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
 [<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
-[<img align="left" alt="ubbolabs" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][ubbolabs]
+[<img align="left" alt="yaha" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][yaha]
 
 <br />
 
