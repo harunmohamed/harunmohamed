@@ -24,7 +24,6 @@
 - York University Graduate Fellowship
 - Dean’s Honor Roll – Humber College
 - Valedictorian – Near East University
-- Engineering Excellence Award - African Grand Expeditions
 - Gold Award Recipient - President’s Award Club
 - Fellow - Yale Young African Scholars
 
