@@ -24,7 +24,7 @@
 - York University Graduate Fellowship
 - Dean’s Honor Roll – Humber College
 - Valedictorian – Near East University
-- Gold Award Recipient - President’s Award Club
+- Gold Standard - President’s Award Club
 - Fellow - Yale Young African Scholars
 
 #### 📊 Work
