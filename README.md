@@ -30,7 +30,7 @@
 #### 📊 Work
 
 [<img align="left" alt="agev3" width="40px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
-[<img align="left" alt="yaha" width="40px" src="https://i.imgur.com/vdDQ8Gl.png" />][yaha]
+[<img align="left" alt="yaha" width="52px" src="https://i.imgur.com/iE5q6Sd.png" />][yaha]
 [<img align="left" alt="tajriba" width="40px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
 
 
