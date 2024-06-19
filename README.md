@@ -1,52 +1,49 @@
-## <code>👋🏾  Hi, I'm Harun. </code>
+## 👋🏾 Hi, I'm Harun.
 
-<!-- ## 👨🏾‍💻 Software Engineer & aspiring Machine Learning Engineer -->
+### 🚀 Professional Experience
 
-- embedded software engineer - digital instrument cluster and driver infotainment systems :: <a href="https://www.gunsel.com.tr/">```🚘 Günsel```</a>
-- project lead :: <a href="https://www.africangrandexpeditions.com/">```🐘 African Grand Expeditions```</a> & <a href="https://www.tajriba.app/">```🏄🏾‍♂️ Tajriba```</a>
-- machine learning :: <a href="https://www.orderyaha.com/">```🍇 Yaha```</a>
+- Backend Engineering - Machine Learning - [🍇 Yaha](https://www.orderyaha.com)
+- Project Lead - [🐘 African Grand Expeditions](https://www.africangrandexpeditions.com)
+- Project Lead - [🏄🏾‍♂️ Tajriba.app](https://www.tajriba.app)
+- Software Engineering Team Lead - [🚘 Günsel Electric Vehicles](https://www.gunsel.com.tr/)
+- Embedded Software Engineer - [🚘 Günsel Electric Vehicles](https://www.gunsel.com.tr/)
+
+### 🎓 Education
+
+- Masters - Information Systems and Technology - York University
+- Graduate Diploma - Artificial Intelligence with Machine Learning - Humber College
+- BSc. Software Engineering - Near East University 
+
+### 🛠 Technical Skills
+
+- Programming: JavaScript, Python, Flask, Node.js, Express.js, React.js, MongoDB, Redis, Git, Bash, Postman, Payment Gateways, Heroku, Vercel, Cloudinary, Firebase, Qt
+- Machine Learning: Pandas, Numpy, Sympy, Matplotlib, Seaborn, Plotly, Sklearn, Pytorch, TensorFlow
+
+### 🏆 Awards
+
+- York University Graduate Fellowship
+- Dean’s Honor Roll – Humber College
+- Valedictorian – Near East University
+- Engineering Excellence Award - African Grand Expeditions
+- Gold Award Recipient - President’s Award Club
+- Fellow - Yale Young African Scholars
+
+#### 📊 Work
+
+[<img align="left" alt="agev3" width="40px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
+[<img align="left" alt="yaha" width="40px" src="https://i.imgur.com/vdDQ8Gl.png" />][yaha]
+[<img align="left" alt="tajriba" width="40px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
 
 
-####  <code>~ work. </code>
+</br>
+</br>
 
-[<img align="left" alt="agev3" width="30px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
-[<img align="left" alt="tajriba" width="30px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
-[<img align="left" alt="yaha" width="30px" src="https://i.imgur.com/vdDQ8Gl.png" />][yaha]
+### 🌐 Connect with me
 
-<br />
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)][linkedin]
 
-<!-- 
-### Languages and Tools:
+[linkedin]: https://linkedin.com/in/harunmohamed
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br /> -->
-
-[bambi]: https://www.bambi.app
-[voyage]: https://www.github.com/voyaage
-[hubble]: https://www.github.com/harunmohamed/hubble
-[billy]: https://www.github.com/harunmohamed/billy
 [agev3]: https://www.africangrandexpeditions.com
 [tajriba]: https://www.tajriba.app
-[ubbolabs]: https://yaha.ubbolabs.com
 [yaha]: https://www.orderyaha.com
-[twitter]: https://twitter.com/harunnmohamed
-[facebook]: https://www.facebook.com/harrunnmohamed
-[instagram]: https://www.instagram.com/harunnmohamed
-[dating]: https://www.github.com/harunmohamed/dating
-[diary]: https://diaary.herokuapp.com/
-[market]: http://uzza.herokuapp.com/
-[cabee]: http://harunmohamed.github.io/cabee/
