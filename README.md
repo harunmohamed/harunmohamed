@@ -11,7 +11,7 @@
 
 ### 🎓 Education
 
-- Masters - Information Systems and Technology - York University
+- MSc. Information Systems and Technology - York University
 - Graduate Diploma - Artificial Intelligence with Machine Learning - Humber College
 - BSc. Software Engineering - Near East University 
 
