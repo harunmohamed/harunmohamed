@@ -2,6 +2,7 @@
 
 ### 🚀 Professional Experience
 
+- Graduate Research Assistant - Applied Artificial Intelligence - [🎓 York University](https://www.yorku.ca)
 - Backend Engineering - Machine Learning - [🍇 Yaha](https://www.orderyaha.com)
 - Project Lead - [🐘 African Grand Expeditions](https://www.africangrandexpeditions.com)
 - Project Lead - [🏄🏾‍♂️ Tajriba.app](https://www.tajriba.app)
