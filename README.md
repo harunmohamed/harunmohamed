@@ -38,7 +38,7 @@
 </br>
 </br>
 
-### 🌐 Connect with me
+### 🌐 Connect
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)][linkedin]
 
