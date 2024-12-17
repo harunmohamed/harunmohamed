@@ -25,7 +25,7 @@
 - York University Graduate Fellowship
 - Dean’s Honor Roll – Humber College
 - Valedictorian – Near East University
-- President’s Award – President Uhuru Kenyatta
+- President’s Award Gold Standard – President Uhuru Kenyatta
 - Fellow - Yale Young African Scholars
 
 #### 📊 Work
