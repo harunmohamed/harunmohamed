@@ -24,7 +24,7 @@
 
 - York University Graduate Fellowship
 - Dean’s Honor Roll – Artificial Intelligence class of '24 - Humber College
-- Valedictorian - Software Enineering Class of '22 – Near East University
+- Valedictorian - Software Engineering Class of '22 – Near East University
 - President’s Award Gold Standard – President Uhuru Kenyatta
 - Fellow - Yale Young African Scholars
 
