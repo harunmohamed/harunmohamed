@@ -4,8 +4,6 @@
 Software and Machine Learning Engineer crafting consumer-facing full-stack & AI applications. My work thrives at the intersection of light design, robust backend engineering, and predictive analytics, always with a focus on optimization to streamline processes and maximize business growth.
 </p> 
 
-<p align="center">📍 Mississauga, ON &nbsp; &nbsp; 🌐 <a href="https://linkedin.com/in/harunmohamed">linkedin.com/in/harunmohamed</a></p>
-
 <div align="center">
  
 `Python` · `JavaScript` · `Qt` · `Node.js` · `SQL` · `Bash` · `Git` · `AWS` · `MongoDB` · `React` · `TailwindCSS`  
@@ -22,7 +20,22 @@ Software and Machine Learning Engineer crafting consumer-facing full-stack & AI 
   *Humber College, Canada* | *(2023 - 2024)*  
 
 - **BSc. Software Engineering** *(Valedictorian)*  
-  *Near East University, Cyprus* | *(2018 - 2022)*  
+  *Near East University, Cyprus* | *(2018 - 2022)*
+
+
+## **Work**
+
+- [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
+  **[Yaha – Smart Ordering](https://www.orderyaha.com/about)**  
+  *A lightweight ordering platform enabling seamless ordering for pickup, table ordering, room service, and catering. Designed to streamline operations for restaurants while enhancing user experience.*  
+
+- [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
+  **[African Grand Expeditions](https://www.africangrandexpeditions.com)**  
+  *Digital transformation leader in Kenya's safari industry, offering seamless trip planning, optimized booking processes, and personalized travel experiences through modern tools.*  
+
+- [<img src="https://i.imgur.com/pc6OSjq.png" alt="Tajriba Logo" width="40" height="40">](https://www.tajriba.app)  
+  **[Tajriba – Personalized Travel Experiences](https://www.tajriba.app)**  
+  *A recommendation-powered platform connecting users with tailored adventures and travel experiences, integrating advanced payment solutions and community based recommendations.* 
 
 
 ## **Professional Experience**  
@@ -55,21 +68,7 @@ Software and Machine Learning Engineer crafting consumer-facing full-stack & AI 
 🏅 **York University Graduate Fellowship**  
 🎓 **Dean’s Honour Roll** – Humber College AI Class of ’24  
 🎓 **Valedictorian** – Near East University Software Engineering Class of ’22  
-🥇 **President’s Gold Standard Award** – President Uhuru Kenyatta  
-🎖️ **Yale Young African Scholars Fellow**  
-
-
-## **Work**
-
-- [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
-  **[Yaha – Smart Ordering](https://www.orderyaha.com/about)**  
-  *A lightweight ordering platform enabling seamless ordering for pickup, table ordering, room service, and catering. Designed to streamline operations for restaurants while enhancing user experience.*  
-
-- [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
-  **[African Grand Expeditions](https://www.africangrandexpeditions.com)**  
-  *Digital transformation leader in Kenya's safari industry, offering seamless trip planning, optimized booking processes, and personalized travel experiences through modern tools.*  
-
-- [<img src="https://i.imgur.com/pc6OSjq.png" alt="Tajriba Logo" width="40" height="40">](https://www.tajriba.app)  
-  **[Tajriba – Personalized Travel Experiences](https://www.tajriba.app)**  
-  *A recommendation-powered platform connecting users with tailored adventures and travel experiences, integrating advanced payment solutions and community based recommendations.*  
+🎖️ **President’s Gold Standard Award** – President Uhuru Kenyatta  
+🏅 **Yale Young African Scholars Fellow**  
+ 
 
