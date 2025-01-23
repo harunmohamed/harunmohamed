@@ -1,49 +1,75 @@
-## 👋🏾 Hi, I'm Harun.
+<h1 align="center">Harun Mohamed Huka</h1>
 
-### 🚀 Professional Experience
+<p align="center">
+Software and Machine Learning Engineer crafting consumer-facing full-stack & AI applications. My work thrives at the intersection of light design, robust backend engineering, and predictive analytics, always with a focus on optimization to streamline processes and maximize business growth.
+</p> 
 
-- Graduate Research Assistant - Applied Artificial Intelligence - [🎓 York University](https://www.yorku.ca)
-- Backend Engineering - Machine Learning - [🍇 Yaha](https://www.orderyaha.com)
-- Project Lead - [🐘 African Grand Expeditions](https://www.africangrandexpeditions.com)
-- Project Lead - [🏄🏾‍♂️ Tajriba.app](https://www.tajriba.app)
-- Software Engineering Team Lead - [🚘 Günsel Electric Vehicles](https://www.gunsel.com.tr/)
-- Embedded Software Engineer - [🚘 Günsel Electric Vehicles](https://www.gunsel.com.tr/)
+<p align="center">📍 Mississauga, ON &nbsp; &nbsp; 🌐 <a href="https://linkedin.com/in/harunmohamed">linkedin.com/in/harunmohamed</a></p>
 
-### 🎓 Education
+<div align="center">
+ 
+`Python` · `JavaScript` · `Qt` · `Node.js` · `SQL` · `Bash` · `Git` · `AWS` · `MongoDB` · `React` · `TailwindCSS`  
+`TensorFlow` · `PyTorch` · `Scikit-Learn` · `Pandas` · `Numpy` · `Seaborn`
 
-- MSc. Information Systems and Technology - York University
-- Graduate Diploma - Artificial Intelligence with Machine Learning - Humber College
-- BSc. Software Engineering - Near East University 
-
-### 🛠 Technical Skills
-
-- Programming: JavaScript, Python, Flask, Node.js, Express.js, React.js, MongoDB, Redis, Git, Bash, Postman, Payment Gateways, Heroku, Vercel, Cloudinary, Firebase, Qt
-- Machine Learning: Pandas, Numpy, Sympy, Matplotlib, Seaborn, Plotly, Sklearn, Pytorch, TensorFlow
-
-### 🏆 Awards
-
-- York University Graduate Fellowship
-- Dean’s Honor Roll – Artificial Intelligence class of '24 - Humber College
-- Valedictorian - Software Engineering Class of '22 – Near East University
-- President’s Award Gold Standard – President Uhuru Kenyatta
-- Fellow - Yale Young African Scholars
-
-#### 📊 Work
-
-[<img align="left" alt="agev3" width="40px" src="https://i.imgur.com/WBbLELk.png" />][agev3]
-[<img align="left" alt="yaha" width="52px" src="https://i.imgur.com/iE5q6Sd.png" />][yaha]
-[<img align="left" alt="tajriba" width="40px" src="https://i.imgur.com/pc6OSjq.png" />][tajriba]
+</div>
 
 
-</br>
-</br>
+## **Education**  
+- **MSc. Information Systems and Technology**  
+  *York University, Canada* | *(2024 - 2026)*  
 
-### 🌐 Connect
+- **Graduate Diploma in Artificial Intelligence with Machine Learning**  
+  *Humber College, Canada* | *(2023 - 2024)*  
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)][linkedin]
+- **BSc. Software Engineering** *(Valedictorian)*  
+  *Near East University, Cyprus* | *(2018 - 2022)*  
 
-[linkedin]: https://linkedin.com/in/harunmohamed
 
-[agev3]: https://www.africangrandexpeditions.com
-[tajriba]: https://www.tajriba.app
-[yaha]: https://www.orderyaha.com
+## **Professional Experience**  
+
+- **Graduate Research Assistant – Applied Artificial Intelligence**  
+  *York University* | *(Sep 2024 - Present)*  
+  - Conducting AI-driven research in autonomous vehicle fleet coordination and traffic flow optimization, focusing on scalable solutions for industry applications.
+
+- **Co-Founder & Machine Learning Engineer**  
+  *[Yaha](https://www.orderyaha.com/about)* | *(Nov 2023 - Present)*  
+  - Developed an innovative ordering platform supporting pickup, table ordering, room service, and catering, designed to streamline restaurant and hotel operations.  
+  - Successfully onboarded restaurants and hotels in Toronto, enhancing their customer experience with seamless digital ordering solutions.  
+  - Leading expansion efforts through a hardwareless ordering platform, integrating predictive analytics to optimize customer recommendations and improve operational efficiency.  
+
+- **Machine Learning Engineer Intern**  
+  *Waypoint Center for Mental Health Care* | *(Jan 2024 - May 2024)*  
+  - Implemented deep learning models for workforce optimization, improving resource utilization and operational efficiency.  
+
+- **Backend Engineering Team Lead**  
+  *Tajriba (tajriba.app)* | *(Mar 2023 - Present)*  
+  - Developed recommendation algorithms, USSD-based payments, and backend systems, increasing booking efficiency.  
+
+- **Software Engineering Team Lead**  
+  *GÜNSEL Electric Vehicles* | *(Apr 2021 - Mar 2023)*  
+  - Delivered a cutting-edge digital instrument cluster for the GUNSEL B9 model.  
+
+
+## **Awards**  
+
+🏅 **York University Graduate Fellowship**  
+🎓 **Dean’s Honour Roll** – Humber College AI Class of ’24  
+🎓 **Valedictorian** – Near East University Software Engineering Class of ’22  
+🥇 **President’s Gold Standard Award** – President Uhuru Kenyatta  
+🎖️ **Yale Young African Scholars Fellow**  
+
+
+## **Work**
+
+- [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
+  **[Yaha – Smart Ordering](https://www.orderyaha.com/about)**  
+  *A lightweight ordering platform enabling seamless ordering for pickup, table ordering, room service, and catering. Designed to streamline operations for restaurants while enhancing user experience.*  
+
+- [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
+  **[African Grand Expeditions](https://www.africangrandexpeditions.com)**  
+  *Digital transformation leader in Kenya's safari industry, offering seamless trip planning, optimized booking processes, and personalized travel experiences through modern tools.*  
+
+- [<img src="https://i.imgur.com/pc6OSjq.png" alt="Tajriba Logo" width="40" height="40">](https://www.tajriba.app)  
+  **[Tajriba – Personalized Travel Experiences](https://www.tajriba.app)**  
+  *A recommendation-powered platform connecting users with tailored adventures and travel experiences, integrating advanced payment solutions and community based recommendations.*  
+
