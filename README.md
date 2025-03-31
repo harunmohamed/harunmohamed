@@ -1,4 +1,4 @@
-<h1 align="center">Harun Mohamed Huka</h1>
+<h1 align="center">Harun Mohamed</h1>
 
 <p align="center">
 Software and Machine Learning Engineer crafting consumer-facing full-stack & AI applications. My work thrives at the intersection of light design, robust backend engineering, and predictive analytics, always with a focus on optimization to streamline processes and maximize business growth.
