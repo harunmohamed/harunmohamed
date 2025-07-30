@@ -26,28 +26,29 @@ Software and Machine Learning Engineer crafting consumer-facing full-stack & AI 
 ## **Work**
 
 - [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
-  **[Yaha – Smart Ordering](https://www.orderyaha.com/about)**  
-  *A lightweight ordering platform enabling seamless ordering for pickup, table ordering, room service, and catering. Designed to streamline operations for restaurants while enhancing user experience.*  
+  **[Yaha: Order on the Way. Shop Local.](https://www.orderyaha.com/about)**  
+  *🍇 Order effortlessly from your favorite local shops on Yaha. Bring your shop online and start selling in 30 minutes.*  
 
 - [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
   **[African Grand Expeditions](https://www.africangrandexpeditions.com)**  
-  *Digital transformation leader in Kenya's safari industry, offering seamless trip planning, optimized booking processes, and personalized travel experiences through modern tools.*  
+  *Explore Kenya through tailored safaris and experiences involving flora, fauna & fascinating cultures.*  
 
 - [<img src="https://i.imgur.com/pc6OSjq.png" alt="Tajriba Logo" width="40" height="40">](https://www.tajriba.app)  
   **[Tajriba – Personalized Travel Experiences](https://www.tajriba.app)**  
-  *A recommendation-powered platform connecting users with tailored adventures and travel experiences, integrating advanced payment solutions and community based recommendations.* 
+  *Ditch the tourist trails and dig deeper with wildly unique experiences and events.* 
 
 
 ## **Professional Experience**  
 
 - **Graduate Research Assistant – Applied Artificial Intelligence**  
   *York University* | *(Sep 2024 - Present)*  
-  - Conducting AI-driven research in autonomous vehicle fleet coordination and traffic flow optimization, focusing on scalable solutions for industry applications.
+  - Research: Smart Shared Mobility with Autonomous Vehicles
+  - Publication: Explainable Machine Learning for spatio-temporal demand forecasting in autonomous fleets
 
 - **Co-Founder & Machine Learning Engineer**  
   *[Yaha](https://www.orderyaha.com/about)* | *(Nov 2023 - Present)*  
   - Developed an innovative ordering platform supporting pickup, table ordering, room service, and catering, designed to streamline restaurant and hotel operations.  
-  - Successfully onboarded restaurants and hotels in Toronto, enhancing their customer experience with seamless digital ordering solutions.  
+  - Successfully onboarded restaurants and hotels in Canada and Kenya, enhancing their customer experience with seamless digital ordering solutions.  
   - Leading expansion efforts through a hardwareless ordering platform, integrating predictive analytics to optimize customer recommendations and improve operational efficiency.  
 
 - **Machine Learning Engineer Intern**  
