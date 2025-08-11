@@ -1,7 +1,7 @@
 <h1 align="center">Harun Mohamed</h1>
 
 <p align="center">
-Software and Machine Learning Engineer crafting consumer-facing full-stack & AI applications. My work thrives at the intersection of light design, robust backend engineering, and predictive analytics, always with a focus on optimization to streamline processes and maximize business growth.
+Software and Machine Learning Engineer specializing in consumer-facing full-stack and AI-driven applications. Work bridges intuitive, lightweight interface design with scalable backend systems and advanced predictive analytics. Research and development efforts focus on optimization techniques, enabling intelligent, high-performance systems that seamlessly integrate robust engineering with practical, real-world impact.
 </p> 
 
 <div align="center">
