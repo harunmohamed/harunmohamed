@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.linkedin.com/in/harunmohamed">Harun Mohamed</a></h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/harunmohamed">Harun Mohamed Huka</a></h1>
 
 <p align="center">
 Software & ML engineer building full-stack consumer products with deep learning and AI. I focus on intuitive, lightweight design, robust backends, and predictive applications that connect engineering with real-world use.
