@@ -29,7 +29,7 @@ Software & ML engineer building full-stack consumer products with deep learning 
 ## **Work**
 
  [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
-  **[Yaha: Order on the Way. Shop Local.](https://www.orderyaha.com/about)**  
+  **[Yaha: Order on the Way. Shop Online.](https://www.orderyaha.com/about)**  
   *🍇 Order effortlessly from your favorite local shops on Yaha. Bring your shop online and start selling in 30 minutes.*  
 
  [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
