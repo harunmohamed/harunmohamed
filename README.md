@@ -28,8 +28,8 @@ Software & ML engineer building full-stack consumer products with deep learning 
 
 ## **Work**
 
-[<img src="https://rounds.curagenix.app/assets/favicon-96x96-C0YpijUU.png" alt="Yaha Logo" width="40" height="40">](https://www.rounds.curagenix.app)  
-  **[Rounds by Curagenix](https://www.rounds.curagenix.app)**  
+[<img src="https://curagenix.app/assets/favicon-96x96-C0YpijUU.png" alt="Yaha Logo" width="40" height="40">](https://www.curagenix.app)  
+  **[Rounds by Curagenix](https://www.curagenix.app)**  
   *The smarter way to run patient consultations: organized, contextual, and stored on your device.*  
   
  [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
