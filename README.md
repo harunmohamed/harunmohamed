@@ -28,11 +28,15 @@ Software & ML engineer building full-stack consumer products with deep learning 
 
 ## **Work**
 
+[<img src="https://i.imgur.com/Vw4UD3o.png" width="40" height="40">](https://cabee-sim.streamlit.app/)  
+  **[CABEE](https://cabee-sim.streamlit.app/)**  
+  *Smart Shared Mobility with Autonomous Vehicles*  
+
 [<img src="https://curagenix.app/assets/favicon-96x96-C0YpijUU.png" alt="Yaha Logo" width="40" height="40">](https://www.curagenix.app)  
   **[Rounds by Curagenix](https://www.curagenix.app)**  
   *The smarter way to run patient consultations: organized, contextual, and stored on your device.*  
   
- [<img src="https://i.imgur.com/iE5q6Sd.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
+ [<img src="https://www.orderyaha.com/apple-touch-icon.1.0.0.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
   **[Yaha: Order on the Way. Shop Online.](https://www.orderyaha.com/about)**  
   *🍇 Order effortlessly from your favorite local shops on Yaha. Bring your shop online and start selling in 30 minutes.*  
 
