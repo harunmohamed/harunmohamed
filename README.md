@@ -38,7 +38,7 @@ Software & ML engineer building full-stack consumer products with deep learning 
   
  [<img src="https://www.orderyaha.com/apple-touch-icon.1.0.0.png" alt="Yaha Logo" width="40" height="40">](https://www.orderyaha.com)  
   **[Yaha: Order on the Way. Shop Online.](https://www.orderyaha.com/about)**  
-  *🍇 Order effortlessly from your favorite local shops on Yaha. Bring your shop online and start selling in 30 minutes.*  
+  *Order effortlessly from your favorite local shops on Yaha. Bring your shop online and start selling in 30 minutes.*  
 
  [<img src="https://i.imgur.com/WBbLELk.png" alt="African Grand Expeditions Logo" width="40" height="40">](https://www.africangrandexpeditions.com)  
   **[African Grand Expeditions](https://www.africangrandexpeditions.com)**  
@@ -47,6 +47,10 @@ Software & ML engineer building full-stack consumer products with deep learning 
  [<img src="https://i.imgur.com/pc6OSjq.png" alt="Tajriba Logo" width="40" height="40">](https://www.tajriba.app)  
   **[Tajriba – Personalized Travel Experiences](https://www.tajriba.app)**  
   *Ditch the tourist trails and dig deeper with wildly unique experiences and events.* 
+
+   [<img src="https://i.imgur.com/mfrsd27.png" alt="Bambi Logo" width="40" height="40">](https://github.com/harunmohamed/bambi-v3)  
+  **[Bambi](https://github.com/harunmohamed/bambi-v3)**  
+  *Make Friends on Campus.* 
 
 
 ## **Professional Experience**  
