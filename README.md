@@ -28,6 +28,10 @@ Software & ML engineer building full-stack consumer products with deep learning 
 
 ## **Work**
 
+[<img src="https://i.imgur.com/3z4oH3E.png" width="40" height="40">](https://orderyaha.com/rides/)  
+  **[Yaha Rides](https://orderyaha.com/rides/)**  
+*Deliveries and errands, made simple.*  
+
 [<img src="https://i.imgur.com/Vw4UD3o.png" width="40" height="40">](https://cabee-sim.streamlit.app/)  
   **[CABEE](https://cabee-sim.streamlit.app/)**  
   *Smart Shared Mobility with Autonomous Vehicles*  
