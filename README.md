@@ -62,7 +62,6 @@ Software & ML engineer building full-stack consumer products with deep learning 
 
  **Graduate Research Assistant – Applied Artificial Intelligence**  
   *York University* | *(Sep 2024 - April 2026)*  
-  - Research: Smart Shared Mobility with Autonomous Vehicles
 
  **Co-Founder & Machine Learning Engineer**  
   *Yaha (orderyaha.com)* | *(Nov 2023 - Present)*   
@@ -75,7 +74,7 @@ Software & ML engineer building full-stack consumer products with deep learning 
 
  **Software Engineering Team Lead**  
   *GÜNSEL Electric Vehicles* | *(Apr 2021 - Mar 2023)*  
-  - Delivered a cutting-edge digital instrument cluster for the GUNSEL B9 model.
+  
 
 ## **Publications**  
 *1. Explainable Machine Learning for spatio-temporal demand forecasting in autonomous fleets*  
