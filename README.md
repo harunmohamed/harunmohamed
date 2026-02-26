@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://www.linkedin.com/in/harunmohamed">Harun Mohamed Huka</a></h1>
 
 <p align="center">
-Software & ML engineer building full-stack consumer products with deep learning and AI. I focus on intuitive, lightweight design, robust backends, and predictive applications that connect engineering with real-world use.
+Software & ML engineer building full-stack consumer products with deep learning and AI. Keen focus on intuitive, lightweight design, robust backends, and predictive applications that connect engineering with real-world applications
 </p> 
 
 
@@ -57,30 +57,34 @@ Software & ML engineer building full-stack consumer products with deep learning 
   *Make Friends on Campus.* 
 
 
+
 ## **Professional Experience**  
 
  **Graduate Research Assistant – Applied Artificial Intelligence**  
-  *York University* | *(Sep 2024 - Present)*  
+  *York University* | *(Sep 2024 - April 2026)*  
   - Research: Smart Shared Mobility with Autonomous Vehicles
-  - Publication: Explainable Machine Learning for spatio-temporal demand forecasting in autonomous fleets
 
  **Co-Founder & Machine Learning Engineer**  
-  *[Yaha](https://www.orderyaha.com/about)* | *(Nov 2023 - Present)*  
-  - Developed an innovative ordering platform supporting pickup, table ordering, room service, and catering, designed to streamline restaurant and hotel operations.  
-  - Successfully onboarded restaurants and hotels in Canada and Kenya, enhancing their customer experience with seamless digital ordering solutions.  
-  - Leading expansion efforts through a hardwareless ordering platform, integrating predictive analytics to optimize customer recommendations and improve operational efficiency.  
+  *Yaha (orderyaha.com)* | *(Nov 2023 - Present)*   
 
  **Machine Learning Engineer Intern**  
   *Waypoint Center for Mental Health Care* | *(Jan 2024 - May 2024)*  
-  - Implemented deep learning models for workforce optimization, improving resource utilization and operational efficiency.  
 
  **Backend Engineering Team Lead**  
-  *Tajriba (tajriba.app)* | *(Mar 2023 - Present)*  
-  - Developed recommendation algorithms, USSD-based payments, and backend systems, increasing booking efficiency.  
+  *Tajriba (tajriba.app)* | *(Mar 2023 - Nov 2023)*  
 
  **Software Engineering Team Lead**  
   *GÜNSEL Electric Vehicles* | *(Apr 2021 - Mar 2023)*  
-  - Delivered a cutting-edge digital instrument cluster for the GUNSEL B9 model.  
+  - Delivered a cutting-edge digital instrument cluster for the GUNSEL B9 model.
+
+## **Publications**  
+*1. Explainable Machine Learning for spatio-temporal demand forecasting in autonomous fleets*  
+
+*2. Smart Shared Mobility with Autonomous Vehicles: A Comprehensive Review of Emerging Systems and Future Directions*
+
+*3. Stochastic Demand Generation and Predictive Rebalancing for Shared Autonomous Fleets*
+
+*4. CABEE: A Multi-Agent Ride-Sharing Framework for Coordination of Shared Autonomous Fleets*
 
 
 ## **Awards**  
