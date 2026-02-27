@@ -76,7 +76,7 @@ Software & ML engineer building full-stack consumer products with deep learning 
   *GÜNSEL Electric Vehicles* | *(Apr 2021 - Mar 2023)*  
   
 
-## **Publications**  
+## **Research Papers**  
 *1. Explainable Machine Learning for spatio-temporal demand forecasting in autonomous fleets*  
 
 *2. Smart Shared Mobility with Autonomous Vehicles: A Comprehensive Review of Emerging Systems and Future Directions*
